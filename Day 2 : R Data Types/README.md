@@ -1,7 +1,11 @@
 # Day 2 : R Data Types
-1. Vectors
-2. Lists
-3. Matrices
-4. Arrays
-5. Factors
-6. Data Frames
+
+| Basic Data Types | Values |
+| -----------| ------------------ |
+| Numeric |	Set of all real numbers |
+| Integer	| Set of all integers |
+| Logical	| TRUE and FALSE |
+| Complex |	Set of complex numbers |
+| Character	| “a”, “b”, “c”, …, “@”, “#”, “$”, …., “1”, “2”, …etc |
+
+
