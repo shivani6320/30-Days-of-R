@@ -71,6 +71,7 @@ Input : list1 <- c(2, 3)
         print(list1^list2)
 Output : 4  81
 ```
+
 - **Modulo Operator (%%):** 
 The remainder of the first operand divided by the second operand is returned.
 ```
