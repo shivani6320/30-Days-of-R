@@ -28,7 +28,7 @@ R supports majorly four kinds of binary operators between a set of operands:
 4. Assignment Operators
 5. Miscellaneous Operator
 
-### 1. Arithmetic Operators:
+### 1. Arithmetic Operators :
 - **Addition operator (+):** 
 The values at the corresponding positions of both the operands are added. Consider the following R snippet to add two vectors:
 ```
