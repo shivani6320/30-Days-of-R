@@ -1,6 +1,6 @@
 # Day 3 : R Variables & Operators
 
-## Variables:
+## Variables :
 
 R supports three ways of variable assignment:
 
