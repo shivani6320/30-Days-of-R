@@ -2,7 +2,7 @@
 
 ## What is R?
 - R is a programming language and software environment for statistical analysis, graphics representation and reporting.
-- This programming language was named R, based on the first letter of first name of the two R authors (Robert Gentleman and Ross Ihaka), and partly a play on the name of the Bell Labs Language S.
+- This programming language was named R, based on the first letter of first name of the two R authors (Robert Gentleman and Ross Ihaka) and partly a play on the name of the Bell Labs Language S.
 
 ![](https://miro.medium.com/max/1024/1*TX77o_zJ4zbpJ3vN4BkLsg.jpeg)
 
