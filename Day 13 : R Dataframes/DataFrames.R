@@ -1,4 +1,4 @@
-#DATAFRAMES
+#DATAFRAME
 
 # creating a data frame
 friend.data <- data.frame(
