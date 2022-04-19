@@ -23,7 +23,7 @@ for (value in vector) {
 ![](https://static.javatpoint.com/tutorial/r/images/r-for-loop.png)
 
 ### 3. Repeat Loop :
-A repeat loop is used to iterate a block of code. It is a special type of loop in which there is no condition to exit from the loop. For exiting, we include a break statement with a user-defined condition. This property of the loop makes it different from the other loops.
+A repeat loop is used to iterate a block of code. It is a special type of loop in which there is no condition to exit from the loop. For exiting, we include a break statement with a user-defined condition.This property of the loop makes it different from the other loops.
 
 A repeat loop constructs with the help of the repeat keyword in R. It is very easy to construct an infinite loop in R.
 
