@@ -10,7 +10,7 @@ To create a data frame in R use **data.frame()** command and then pass each of t
 ### Get the Structure of the R – Data Frame
 One can get the structure of the data frame using **str()** function in R. It can display even the internal structure of large lists which are nested. It provides one-liner output for the basic R objects letting the user know about the object and its constituents. 
 
-### ummary of data in the data frame
+### Summary of data in the data frame
 In R data frame, the statistical summary and nature of the data can be obtained by applying **summary()** function. It is a generic function used to produce result summaries of the results of various model fitting functions. The function invokes particular methods which depend on the class of the first argument. 
 
 ### Extract Data from Data Frame in R Language
