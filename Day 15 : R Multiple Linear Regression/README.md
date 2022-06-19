@@ -1,4 +1,4 @@
-# Day 15 : Multiple Regression
+# Day 15 : R Multiple Linear Regression
 
 Multiple linear regression is the extension of the simple linear regression, which is used to predict the outcome variable (y) based on multiple distinct predictor variables (x). With the help of three predictor variables (x1, x2, x3), the prediction of y is expressed using the following equation:
 
