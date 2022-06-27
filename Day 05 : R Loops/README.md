@@ -27,6 +27,7 @@ A repeat loop is used to iterate a block of code. It is a special type of loop i
 
 A repeat loop constructs with the help of the repeat keyword in R. It is very easy to construct an infinite loop in R.
 
+
 The basic syntax of the repeat loop is as follows:
 ```
 repeat {   
