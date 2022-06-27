@@ -4,6 +4,7 @@ In R, a function is an object so the R interpreter is able to pass control to th
 
 The function in turn performs its task and returns control to the interpreter as well as any result which may be stored in other objects.
 
+
 An R function is created by using the keyword function. The basic syntax of an R function definition is as follows −
 ```
 function_name <- function(arg_1, arg_2, ...) {
