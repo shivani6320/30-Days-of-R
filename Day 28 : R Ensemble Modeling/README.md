@@ -2,9 +2,9 @@
 
 The three most popular methods for combining the predictions from different models are:
 
-1. Bagging. Building multiple models (typically of the same type) from different subsamples of the training dataset.
-2. Boosting. Building multiple models (typically of the same type) each of which learns to fix the prediction errors of a prior model in the chain.
-3. Stacking. Building multiple models (typically of differing types) and supervisor model that learns how to best combine the predictions of the primary models.
+1. Bagging : Building multiple models (typically of the same type) from different subsamples of the training dataset.
+2. Boosting : Building multiple models (typically of the same type) each of which learns to fix the prediction errors of a prior model in the chain.
+3. Stacking : Building multiple models (typically of differing types) and supervisor model that learns how to best combine the predictions of the primary models.
 
 ### 1. Boosting Algorithms
 We can look at two of the most popular boosting machine learning algorithms:
