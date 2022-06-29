@@ -9,7 +9,6 @@ The way we find the principal components is as follows:
 - Z2 is the next linear combination of the predictors that captures the most variance while being orthogonal (i.e. uncorrelated) to Z1.
 - Z3 is then the next linear combination of the predictors that captures the most variance while being orthogonal to Z2.
 
-
 ### Step 1: Load the Data
 First we’ll load the tidyverse package, which contains several useful functions for visualizing and manipulating data
 
