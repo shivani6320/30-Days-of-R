@@ -1,3 +1,3 @@
 # 30 Days of R
 
-### 📌This is my collection highlights of R learning jouney✨
+### 📌This is a collection of highlights from my R learning jouney✨
